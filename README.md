@@ -1,5 +1,5 @@
 # vimrcSettings
 
-** Installing Plugins **
+**Installing Plugins**
 
-  - Go to https://github.com/junegunn/vim-plug How to install vim-plug manager
+  * Go to https://github.com/junegunn/vim-plug How to install vim-plug manager
